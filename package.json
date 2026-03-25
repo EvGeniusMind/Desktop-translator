@@ -1,0 +1,1 @@
+{\n  "name": "desktop-translator",\n  "version": "1.0.0",\n  "main": "electron/main.js",\n  "scripts": {\n    "start": "electron .",\n    "build": "pkg ."\n  },\n  "dependencies": {\n    "electron": "^latest"\n  }\n}
